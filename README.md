@@ -1,6 +1,4 @@
-![Demo - Voting](https://i.imgur.com/MzQ2WXe.png "Voting")
 
-![Demo - Results](https://i.imgur.com/HOViuxW.png "Results")
 
 # Survey
 
@@ -9,6 +7,10 @@ An image-by-image rating survey that shows the aggregated results at the end. Ma
 Uses: 
 - Angular 5
 - Firestore (angularFire2)
+
+![Demo - Voting](https://i.imgur.com/MzQ2WXe.png "Voting")
+
+![Demo - Results](https://i.imgur.com/HOViuxW.png "Results")
 
 ## Setup
 
