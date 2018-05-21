@@ -2,13 +2,13 @@
 
 An image-by-image rating survey that shows the aggregated results at the end. Made for a class survey as there were no image-based surveys around.
 
-Generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.6.
-
 ## Setup
 
 Remember to add the firebaseConfig settings from your [firebase console](https://console.firebase.google.com/) into the `app.module.ts` file, and you should be set.
 
 # Extra Information
+
+Generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.6.
 
 ## Development server
 
