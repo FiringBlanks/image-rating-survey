@@ -2,6 +2,10 @@
 
 An image-by-image rating survey that shows the aggregated results at the end. Made for a class survey as there were no image-based surveys around.
 
+Uses:
+-Angular 5
+-Firestore (angularFire2)
+
 ## Setup
 
 Remember to add the firebaseConfig settings (from your [firebase console](https://console.firebase.google.com/)) into the `app.module.ts` file and you should be set.
