@@ -9,6 +9,7 @@ An image-by-image rating survey that shows the aggregated results at the end. Ma
 Uses: 
 - Angular 5
 - Firestore (angularFire2)
+- Chart.js
 
 ![Demo - Voting](https://i.imgur.com/MzQ2WXe.png "Voting")
 
