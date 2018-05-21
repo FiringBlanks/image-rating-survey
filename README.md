@@ -4,10 +4,9 @@ An image-by-image rating survey that shows the aggregated results at the end. Ma
 
 Generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.6.
 
-## Steps
+## Setup
 
-1) Create a new firebase project (Settings icon --> Project Settings --> "Add Firebase to Your Web App") in your [firebase console](https://console.firebase.google.com/)
-2) Add firebase project variables into `app.module.ts` 
+Remember to add the firebaseConfig settings from your [firebase console](https://console.firebase.google.com/) into the `app.module.ts` file, and you should be set.
 
 # Extra Information
 
