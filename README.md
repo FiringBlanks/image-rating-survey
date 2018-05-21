@@ -4,6 +4,8 @@
 
 An image-by-image rating survey that shows the aggregated results at the end. Made for a class survey as there were no image-based surveys around.
 
+[Gfycat Demo](https://gfycat.com/WetAcceptableAfricanaugurbuzzard)
+
 Uses: 
 - Angular 5
 - Firestore (angularFire2)
