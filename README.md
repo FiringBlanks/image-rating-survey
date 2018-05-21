@@ -4,6 +4,10 @@
 
 <img src="https://gfycat.com/WetAcceptableAfricanaugurbuzzard" title="Demo" />
 
+![alt text](https://i.imgur.com/MPukTUZ.jpg "Title")
+
+
+
 # Survey
 
 An image-by-image rating survey that shows the aggregated results at the end. Made for a class survey as there were no image-based surveys around.
