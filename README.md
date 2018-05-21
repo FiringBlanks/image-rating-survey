@@ -11,7 +11,7 @@
 
 ![alt text][logo]
 
-[logo]: https://gfycat.com/WetAcceptableAfricanaugurbuzzard "Logo Title Text 2"
+[logo]: https://i.imgur.com/MjZHqqO.mp4 "Logo Title Text 2"
 
 
 # Survey
