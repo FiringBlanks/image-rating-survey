@@ -1,5 +1,9 @@
 ![Survey Demo](https://gfycat.com/WetAcceptableAfricanaugurbuzzard "Demo")
 
+![alt text](/path/to/img.jpg "Title")
+
+<img src="https://gfycat.com/WetAcceptableAfricanaugurbuzzard" title="Demo" />
+
 # Survey
 
 An image-by-image rating survey that shows the aggregated results at the end. Made for a class survey as there were no image-based surveys around.
