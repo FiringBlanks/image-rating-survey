@@ -1,6 +1,15 @@
 # Survey
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.6.
+An image-by-image rating survey that shows the aggregated results at the end. Made for a class survey as there were no image-based surveys around.
+
+Generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.6.
+
+## Steps
+
+1) Create a new firebase project (Settings icon --> Project Settings --> "Add Firebase to Your Web App") in your [firebase console](https://console.firebase.google.com/)
+2) Add firebase project variables into `app.module.ts` 
+
+# Extra Information
 
 ## Development server
 
