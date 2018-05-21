@@ -6,7 +6,7 @@ An image-by-image rating survey that shows the aggregated results at the end. Ma
 
 [Gfycat Demo](https://gfycat.com/WetAcceptableAfricanaugurbuzzard)
 
-Uses: 
+External packages used: 
 - Angular 5
 - Firestore (angularFire2)
 - Chart.js
