@@ -1,5 +1,6 @@
-![alt text](https://i.imgur.com/MzQ2WXe.png "Title")
+![Demo - Voting](https://i.imgur.com/MzQ2WXe.png "Voting")
 
+![Demo - Results](https://i.imgur.com/HOViuxW.png "Results")
 
 # Survey
 
