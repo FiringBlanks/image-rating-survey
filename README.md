@@ -1,20 +1,4 @@
-![Survey Demo](https://gfycat.com/WetAcceptableAfricanaugurbuzzard "Demo")
-
-![alt text](/path/to/img.jpg "Title")
-
-<img src="https://gfycat.com/WetAcceptableAfricanaugurbuzzard" title="Demo" />
-
-![alt text](https://i.imgur.com/MPukTUZ.jpg "Title")
-
-![alt text](https://gfycat.com/WetAcceptableAfricanaugurbuzzard "Title")
-
-
-![alt text][logo]
-
-[logo]: https://i.imgur.com/MjZHqqO.mp4 "Logo Title Text 2"
-
-
-![alt text](https://i.imgur.com/MjZHqqO.mp4 "Title")
+![alt text](https://i.imgur.com/MzQ2WXe.png "Title")
 
 
 # Survey
