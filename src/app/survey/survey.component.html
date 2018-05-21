@@ -1,0 +1,43 @@
+
+<div style="text-align:center; margin-top: 16px;">
+    <h1>
+      Rate the person's attractiveness
+    </h1>
+
+    <img height="600" src={{imgSrcVar}} style="margin: auto;">
+
+  </div>
+  
+  
+  
+  
+  <div class="ui center aligned segment">
+  
+    <div class="ui animated button" style="margin-right: 16px;" (click)="last()">
+      <div class="hidden content">Last</div>
+      <div class="visible content"><i class="left arrow icon"></i></div>
+    </div>
+  
+    <i class="large red ban icon" style="margin: 8px"></i>
+  
+    <div class="ui basic buttons">
+      <button class="ui button" (click)="saveAwayCurrentRating(1)" >1</button>
+      <button class="ui button" (click)="saveAwayCurrentRating(2)">2</button>
+      <button class="ui button" (click)="saveAwayCurrentRating(3)">3</button>
+      <button class="ui button" (click)="saveAwayCurrentRating(4)">4</button>
+      <button class="ui button" (click)="saveAwayCurrentRating(5)">5</button>
+      <button class="ui button" (click)="saveAwayCurrentRating(6)">6</button>
+      <button class="ui button" (click)="saveAwayCurrentRating(7)">7</button>
+      <button class="ui button" (click)="saveAwayCurrentRating(8)">8</button>
+      <button class="ui button" (click)="saveAwayCurrentRating(9)">9</button>
+      <button class="ui button" (click)="saveAwayCurrentRating(10)">10</button>
+    </div>
+  
+    <i class="large orange fire icon" style="margin: 8px"></i>
+  
+    <div class="ui animated button" style="margin-left: 16px;" (click)="next()">
+      <div class="hidden content">Next</div>
+      <div class="visible content"><i class="right arrow icon"></i></div>
+    </div>
+  
+  </div>

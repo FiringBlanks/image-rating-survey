@@ -1,0 +1,74 @@
+
+<div class="ui center aligned segment">
+
+    <div class="ui massive header" style="margin-top: 32px;" *ngIf="userUID">Survey complete. Thank you for participating!</div>
+
+    <h1>
+      <u>Results</u>
+    </h1>
+    
+    <span>Total survey entries: <b>{{numberUsers}}</b></span>
+
+    <div class="ui center aligned grid" style="margin-top: 24px;">
+      <div class="three wide column">
+        <img src="../assets/Male Asymmetrical.jpg" height="300px">
+        <div><div class="ui header">Male (Asymmetrical)</div></div>
+      </div>
+      <div class="five wide column">
+        <div class="ui center aligned segment" style="width:620px; height: 320px; margin: auto;">
+          <div [hidden]="!chart1">
+            <canvas id="canvas1">{{ chart1 }}</canvas>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="ui center aligned grid" style="margin-top: 24px;">
+      <div class="three wide column">
+        <img src="../assets/Male Symmetrical.jpg" height="300px">
+        <div><div class="ui header">Male (Symmetrical)</div></div>
+      </div>
+      <div class="five wide column">
+        <div class="ui center aligned segment" style="width:620px; height: 320px; margin: auto;">
+          <div [hidden]="!chart2">
+            <canvas id="canvas2">{{ chart2 }}</canvas>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="ui center aligned grid" style="margin-top: 24px;">
+      <div class="three wide column">
+        <img src="../assets/Female Asymmetrical.jpg" height="300px">
+        <div><div class="ui header">Female (Asymmetrical)</div></div>
+      </div>
+      <div class="five wide column">
+        <div class="ui center aligned segment" style="width:620px; height: 320px; margin: auto;">
+          <div [hidden]="!chart3">
+            <canvas id="canvas3">{{ chart3 }}</canvas>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="ui center aligned grid" style="margin-top: 24px;">
+      <div class="three wide column">
+        <img src="../assets/Female Symmetrical.jpg" height="300px">
+        <div><div class="ui header">Female (Symmetrical)</div></div>
+      </div>
+      <div class="five wide column">
+        <div class="ui center aligned segment" style="width:620px; height: 320px; margin: auto;">
+          <div [hidden]="!chart4">
+            <canvas id="canvas4">{{ chart4 }}</canvas>
+          </div>
+        </div>
+      </div>
+    </div>
+
+
+    <div class="ui header" style="margin-top: 56px; margin-bottom: 24px;" *ngIf="userUID"> End of results. You can close this window. </div>
+
+</div>
+
+
+
